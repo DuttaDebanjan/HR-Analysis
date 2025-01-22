@@ -1,2 +1,2 @@
 # HR-Analysis
-This is a project that uses Power BI to creatre dashboard for analysis purposes
+This is a project that uses Power BI to create a dashboard for analysis purposes.
